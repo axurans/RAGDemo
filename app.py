@@ -13,7 +13,7 @@ st.set_page_config(page_title="Simple Document Summarizer", layout="wide")
 
 # Concise Streamlit content
 st.markdown("""
-## Simple Document Summarizer
+## RAGDemo: Simple Document Summarizer
 
 1. **Upload Documents**: Upload PDFs, DOCX, TXT, or CSV files.
 2. **Ask a Question**: After processing, ask questions related to the content for accurate answers.
